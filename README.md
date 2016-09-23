@@ -7,3 +7,14 @@ How to compile :
 gcc TicTacToe.c -o play
 
 ./play
+
+
+
+
+![ScreenShot](https://github.com/abdullahfarwees/TicTacToe/blob/master/tictactoe1.png)
+
+
+![ScreenShot](https://github.com/abdullahfarwees/TicTacToe/blob/master/tictactoe2.png)
+
+
+![ScreenShot](https://github.com/abdullahfarwees/TicTacToe/blob/master/tictactoe3.png)
