@@ -88,6 +88,7 @@ void ResetBoard()
     }
   }
 
+count = 0;
 DisplayBoard();
 }
 
